@@ -1,5 +1,5 @@
 # studymate_app
-
+Repository for the studymate flutter device app
 A new Flutter application.
 
 ## Getting Started
